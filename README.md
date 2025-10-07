@@ -70,6 +70,5 @@ Each commit documents a step in the learning journey:
 ## 🧭 API Gateway Flow
 
 ```plaintext
-Client → API Gateway → Employees Service
-                     → Leave Requests Service
-                     → Attendance Service
+Client → API Gateway → Employees Microservice → Employees Database
+                     → Leave Requests Microservice → Leave Requests Database
