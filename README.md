@@ -45,9 +45,7 @@ The system is built using:
 - **.NET 8 / ASP.NET Core Web API**
 - **Entity Framework Core**
 - **SQL Server**
-- **Ocelot / YARP** (for API Gateway)
-- **AutoMapper**
-- **Swagger / OpenAPI**
+- **Swagger**
 - **Docker (planned)**
 
 ---
